@@ -1,2 +1,3 @@
 # omori-linux-patch
-A Patch to make Omori RPGMakerMV project work on Linux
+
+A Patch to make Omori RPGMakerMV project (mostly) work on Linux
